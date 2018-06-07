@@ -38,6 +38,14 @@ python entertainment_center.py
 
 Your default browser should launch a new tab displaying the movie trailer website.
 
+## Extra Credit Description
+
+The following features were implemented to gain an extra credit from Udacity:
+
+* Added the release date to the Movie class.
+* Changed the background and adding zoom on hover animation on particular tile.
+* Created an animation for Release Date, which is shown only when particular tile is hovered.
+
 ## Miscellaneous
 
 This README document is based on a template suggested by PhilipCoach in this
