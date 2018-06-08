@@ -46,7 +46,3 @@ The following features were implemented to gain an extra credit from Udacity:
 * Changed the background and adding zoom on hover animation on particular tile.
 * Created an animation for Release Date, which is shown only when particular tile is hovered.
 
-## Miscellaneous
-
-This README document is based on a template suggested by PhilipCoach in this
-Udacity forum [post](https://discussions.udacity.com/t/readme-files-in-project-1/23524).
